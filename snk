@@ -1,0 +1,59 @@
+[33mcommit 7801ebc0fceca002249276bd2c21615dfd83c722[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Jesutofunmi Egbewale <egbewalejesutofunmi@gmail.com>
+Date:   Mon Aug 12 17:44:10 2024 +0100
+
+    Changed README in original repo
+
+[33mcommit 7c4a9211c9d29061de2342fb4615da81e5f65778[m[33m ([m[1;32mstyle[m[33m)[m
+Author: Jesutofunmi Egbewale <egbewalejesutofunmi@gmail.com>
+Date:   Fri Aug 9 12:30:21 2024 +0100
+
+    Renamed hello.html; moved style.css
+
+[33mcommit 9ebba37fe349dc57ccfff15ae0d6618e44f375f3[m
+Author: Jesutofunmi Egbewale <egbewalejesutofunmi@gmail.com>
+Date:   Wed Aug 7 14:54:26 2024 +0100
+
+    Included stylesheet into hello.html
+
+[33mcommit 3468220e7f429a540227c88a151b77d6bedda96a[m
+Author: Jesutofunmi Egbewale <egbewalejesutofunmi@gmail.com>
+Date:   Wed Aug 7 14:40:41 2024 +0100
+
+    Added css stylesheet
+
+[33mcommit 9691c47bdb13765f6f92071a2e0122aac097f2dd[m
+Author: Jesutofunmi Egbewale <egbewalejesutofunmi@gmail.com>
+Date:   Fri Aug 9 13:58:58 2024 +0100
+
+    Added Meta title
+
+[33mcommit 4a0449a95374d9143f8e9f680790a9c19f8ad3a5[m
+Author: Jesutofunmi Egbewale <egbewalejesutofunmi@gmail.com>
+Date:   Fri Aug 9 13:12:12 2024 +0100
+
+    Added README
+
+[33mcommit 7120471d9c104dcefc56947ddb9900e0824b92cc[m
+Author: Jesutofunmi Egbewale <egbewalejesutofunmi@gmail.com>
+Date:   Wed Aug 7 14:16:48 2024 +0100
+
+    Added Copyright statement with Email
+
+[33mcommit b8de5587d0760572fbea33637854a9fe41092ea5[m[33m ([m[1;33mtag: [m[1;33mv1[m[33m)[m
+Author: Jesutofunmi Egbewale <egbewalejesutofunmi@gmail.com>
+Date:   Fri Aug 2 23:55:02 2024 +0100
+
+    Added HTML header
+
+[33mcommit c1b119fdee68fcdd3f551bc38ac976ac869ef136[m[33m ([m[1;33mtag: [m[1;33mv1-beta[m[33m)[m
+Author: Jesutofunmi Egbewale <egbewalejesutofunmi@gmail.com>
+Date:   Fri Aug 2 23:53:29 2024 +0100
+
+    Added standard HTML page tags
+
+[33mcommit 1c7e4d358cbb5bcb81b8f8e4922c6059c5f04beb[m[33m ([m[1;33mtag: [m[1;33mv1-gamma[m[33m)[m
+Author: Jesutofunmi Egbewale <egbewalejesutofunmi@gmail.com>
+Date:   Fri Aug 2 23:45:48 2024 +0100
+
+    Added h1 tag
